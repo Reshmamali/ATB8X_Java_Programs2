@@ -5,7 +5,7 @@ public class Lab099 {
 
         for (char c = 'A'; c<='Z' ; c++){
             System.out.print(c);
-            System.out.printf("\t");
+            System.out.print("\t");
         }
         System.out.println("\n"+ "All above characters are capital in letter");
     }
