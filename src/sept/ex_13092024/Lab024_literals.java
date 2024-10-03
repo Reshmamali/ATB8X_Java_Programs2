@@ -1,6 +1,6 @@
 package sept.ex_13092024;
 
-public class Lab_024_literals {
+public class Lab024_literals {
     public static void main(String[] args) {
         //✅ Literals
 
