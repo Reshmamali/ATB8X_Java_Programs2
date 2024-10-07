@@ -1,4 +1,4 @@
-package sept.Task;
+package Task;
 
 public class Task_27th_Sep_EvenNumber {
     public static void main(String[] args) {

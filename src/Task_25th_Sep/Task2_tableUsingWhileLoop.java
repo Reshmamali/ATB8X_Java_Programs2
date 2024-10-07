@@ -1,4 +1,4 @@
-package sept.Task_25th_Sep;
+package Task_25th_Sep;
 
 public class Task2_tableUsingWhileLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sept.Task;
+package Task;
 import java.util.Scanner;
 
 public class Task_20th_Sep_FizBuzz {
