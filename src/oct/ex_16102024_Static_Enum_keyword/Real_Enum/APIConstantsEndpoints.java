@@ -1,4 +1,4 @@
-package oct.ex_16102024.Real_Enum;
+package oct.ex_16102024_Static_Enum_keyword.Real_Enum;
 
 public enum APIConstantsEndpoints {
     BASE_URL("https://app.vwo.com"),

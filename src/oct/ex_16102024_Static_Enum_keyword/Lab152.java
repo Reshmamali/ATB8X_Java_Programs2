@@ -1,4 +1,4 @@
-package oct.ex_16102024;
+package oct.ex_16102024_Static_Enum_keyword;
 
 public class Lab152{
     public static void main(String[] args) {

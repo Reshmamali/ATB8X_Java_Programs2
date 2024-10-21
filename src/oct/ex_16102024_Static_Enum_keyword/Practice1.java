@@ -1,6 +1,4 @@
-package oct.ex_16102024;
-
-import org.w3c.dom.ls.LSOutput;
+package oct.ex_16102024_Static_Enum_keyword;
 
 public class Practice1 {
     public static void main(String[] args) {
