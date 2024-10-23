@@ -1,6 +1,6 @@
 package sept.ex_18092024;
 
-public class Lab050 {
+public class Lab050_type_casting {
     public static void main(String[] args) {
         // Type casting
         // widening >> Implicit casting >> lossless
