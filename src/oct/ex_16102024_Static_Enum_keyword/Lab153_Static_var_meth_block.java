@@ -17,7 +17,9 @@ class Student {
     int age; // Instance Variable (Non Static)
     static String school_name = "ABC"; // Static Variable
 
-
+    Student (int age){
+         this.age=age;
+    }
     {
         System.out.println("IIB");
         System.out.println("Here you can write a code what you want to do when Object is created");
@@ -25,13 +27,12 @@ class Student {
     }
 
     static {
+        int b = 20;
         System.out.println("SIB");
         System.out.println("Loaded Once, When Class is Laoded.");
 
     }
-
-
-    public Student(int age) {
-        this.age = age;
+    public void student() {
+        school_name = "vbg";
     }
 }
