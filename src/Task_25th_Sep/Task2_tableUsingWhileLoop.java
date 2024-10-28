@@ -4,10 +4,12 @@ public class Task2_tableUsingWhileLoop {
     public static void main(String[] args) {
         int num = 11;
         int i = 1;
+        int count ;
 
         while(i<=10){
-            System.out.println(num*i);
-            i++;
+            count = num * i ;
+            System.out.println(count);
+            i ++ ;
         }
     }
 }

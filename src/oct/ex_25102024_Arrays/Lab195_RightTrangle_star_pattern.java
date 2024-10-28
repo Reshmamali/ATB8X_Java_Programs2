@@ -1,4 +1,4 @@
-package oct.ex_27102024_Arrays;
+package oct.ex_25102024_Arrays;
 
 public class Lab195_RightTrangle_star_pattern {
     //*

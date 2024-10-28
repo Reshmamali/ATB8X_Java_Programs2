@@ -1,4 +1,4 @@
-package oct.ex_27102024_Arrays;
+package oct.ex_25102024_Arrays;
 
 public class Lab187 {
     public static void main(String[] args) {

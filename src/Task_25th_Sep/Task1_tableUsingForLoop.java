@@ -8,9 +8,11 @@ public class Task1_tableUsingForLoop {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter number for which you want to print the table =  ");
         int num = sc.nextInt();
-        System.out.println("multiplication of table = ");
+        int count;
+
         for(int i=1; i <= 10; i++){
-            System.out.println(num + "X" + i + "=" + (num*i));
+            count = num * i ;
+            System.out.println(count);
         }
     }
 }

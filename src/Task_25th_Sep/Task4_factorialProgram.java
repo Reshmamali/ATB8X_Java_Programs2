@@ -1,12 +1,8 @@
 package Task_25th_Sep;
 
-import java.util.Scanner;
-
 public class Task4_factorialProgram {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("enter the number = ");
-        int num = sc.nextInt();
+        int num = 5;
         int fact = 1;
 
 //        for(int i=5; i>=1; i--){
