@@ -20,6 +20,7 @@ public class Lab199_List_ArrayList {
         System.out.println(list.contains("cheese"));  //false
         System.out.println(list.contains("milk"));   //
         System.out.println(list.indexOf("paneer")); //find the first occ of element in list
-        System.out.println(list.lastIndexOf("paneer")); //find the first occ of element in list
+        System.out.println(list.lastIndexOf("paneer")); //find the last occ of element in list
+
     }
 }

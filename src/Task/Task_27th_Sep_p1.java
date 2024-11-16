@@ -11,7 +11,7 @@ public class Task_27th_Sep_p1 {
                 System.out.println(num);
                 count++;
             }
-            num = num+2;
+            num++;
         }
     }
 }

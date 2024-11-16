@@ -7,7 +7,5 @@ public class Lab027_constant_var_exm {
         pie = 1.298f; // Valid because we are assigning value first time
 //        pie = 3.14f;  invalid
         System.out.println(pie);
-
-
     }
 }

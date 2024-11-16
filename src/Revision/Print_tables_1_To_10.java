@@ -1,6 +1,6 @@
 package Revision;
 
-public class Print_tables_1To10 {
+public class Print_tables_1_To_10 {
     public static void main(String[] args) {
         int num = 10;
 
