@@ -11,10 +11,11 @@ public class PrimeNumberChecker {
 
         if(num>1) {
             for (int i=1;i<=num;i++) {
-                if(num%i==0)
+                if (num % i == 0) {
                     count++;
+                }
             }
-            if(count==2) {
+        if(count==2) {
                 System.out.println("The given number is prime number");
             }
             else {

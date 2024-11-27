@@ -14,7 +14,7 @@ public class MaxNoBetweenThreeNos {
 
         if (first_num>second_num && first_num>third_num){
             System.out.println("First number is greater");
-        }else if (second_num>first_num && second_num>third_num){
+        } else if (second_num>first_num && second_num>third_num){
             System.out.println("Second number is greater");
         }else {
             System.out.println("Third number is greater");
